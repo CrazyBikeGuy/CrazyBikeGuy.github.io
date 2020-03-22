@@ -157,9 +157,26 @@ h1, h2{
     text-align: center;
     margin-bottom: 12px;
 }
+h1{
+    font-family: castellar;
+    font-weight: bold;
+    color: aliceblue
+}
+h2{
+    font-family: bradley hand itc;
+    font-style: italic;
+    color: floralwhite;
+}
 header{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px
 }
 body{
-    background-color: #444;
+    background-color:floralwhit;
+    background-color:bisqu;
+    background-color:cornsil k;
+    background-color: floralwhit e;
+    background-color: dimgray;
+    background-color:darkgre y;
+    background-color: cornsil k;
 }
