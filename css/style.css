@@ -230,7 +230,7 @@ main {
 }
 
 header,footer {
-    width: 100vw;
+    width: 100%;
 }
 
 footer {
