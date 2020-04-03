@@ -264,6 +264,7 @@ span {
     font-weight: 100
 }
 
+
 @media (max-height: 320px) {
     h1 {
         bottom: 1%
